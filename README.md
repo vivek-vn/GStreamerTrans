@@ -1,0 +1,4 @@
+GStreamerTrans
+==============
+
+For NuSpectra
